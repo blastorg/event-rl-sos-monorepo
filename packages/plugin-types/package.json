@@ -1,5 +1,5 @@
 {
-  "name": "sos-plugin-types",
+  "name": "@blastorg/sos-plugin-types",
   "version": "1.0.4",
   "description": "TypeScript typings and string constants for the SOS plugin for Bakkesmod",
   "main": "dist/index.js",
