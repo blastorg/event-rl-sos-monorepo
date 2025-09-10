@@ -272,6 +272,7 @@ export namespace SOS {
 
   export type Packet =
     | GameUpdate
+    | GameCrossbarHit
     | GameBallHit
     | GameStatFeedEvent
     | GameGoalScored
